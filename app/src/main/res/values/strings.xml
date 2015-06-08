@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather It</string>
+    <string name="action_settings">Settings</string>
+    <string name="warning_dialog_title_internet">No internet connection</string>
+    <string name="warning_dialog_message_internet">Data will be shown from cache</string>
+    <string name="warning_dialog_title_no_cache">Can\'t load any data</string>
+    <string name="warning_dialog_message_no_cache">No available data to show.</string>
+    <string name="hello_world">Hello</string>
+    <string name="warning_dialog_error_title">Error</string>
+    <string name="warning_dialog_error_parsing_json_message">Error parsing data</string>
+    <string name="warning_dialog_message_no_internet">Please, check your internet settings</string>
+    <string name="warning_dialog_connection_error_title">Connection error</string>
+    <string name="warning_dialog_connection_error_message">Error retreiving data. \n Trying to reconnect</string>
+</resources>
